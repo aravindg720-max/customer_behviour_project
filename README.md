@@ -89,13 +89,7 @@ The dataset was cleaned and transformed using Python and Pandas. Major preproces
 * Converting purchase frequency into numerical values
 * Data validation and transformation
 
-Key preprocessing tasks performed:
 
-```python
-df.isnull().sum()
-df.columns
-pd.qcut()
-```
 
 Additional transformations included:
 
