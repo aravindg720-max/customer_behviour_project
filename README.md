@@ -1,4 +1,6 @@
 # customer_behviour_project
+<img width="1193" height="671" alt="Screenshot 2026-05-24 131222" src="https://github.com/user-attachments/assets/8d25ffaa-0a87-4fb5-aaf7-78ea2256ab8b" />
+
 
 # Customer Behavior Analysis using Python, SQL & Power BI
 
