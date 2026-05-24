@@ -1,11 +1,10 @@
 # customer_behviour_project
-<img width="1193" height="671" alt="Screenshot 2026-05-24 131222" src="https://github.com/user-attachments/assets/8d25ffaa-0a87-4fb5-aaf7-78ea2256ab8b" />
-
-
 # Customer Behavior Analysis using Python, SQL & Power BI
 
 ## Project Overview
 This project focuses on analyzing customer purchasing behavior using Python for data cleaning and preprocessing, SQL for business analysis, and Power BI for interactive dashboard visualization. The objective of the project was to identify customer trends, purchasing patterns, subscription behavior, and category-wise sales performance.
+
+<img width="1193" height="671" alt="Screenshot 2026-05-24 131222" src="https://github.com/user-attachments/assets/8d25ffaa-0a87-4fb5-aaf7-78ea2256ab8b" />
 
 ---
 
